@@ -1,0 +1,11 @@
+.idea/
+venv/
+__pycache__/
+
+.replit
+*.py[cod]
+
+build/
+dist/
+*.egg-info/
+
